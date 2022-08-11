@@ -1,0 +1,25 @@
+{
+  "name": "githubpagehostgraphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARKANYOTA/GithubPageHostGraphQLTest.git"
+  },
+  "author": "ARKANYOTA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ARKANYOTA/GithubPageHostGraphQLTest/issues"
+  },
+  "homepage": "https://github.com/ARKANYOTA/GithubPageHostGraphQLTest#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0"
+  }
+}
